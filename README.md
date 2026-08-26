@@ -1,14 +1,14 @@
-# Hi, I'm Joyce Abache👋
+# Hi, I'm Joyce Abache
 
 **Data Analyst** | Power BI · SQL · Excel · Python
 
-I analyze real-world data to answer business questions — and build the dashboards and reports that turn those answers into decisions people can act on.
+I turn raw data into insights that answer real business questions. From cleaning and analyzing data to building interactive dashboards, I focus on finding the story behind the numbers and turning it into something businesses can act on.
 
 ![Global Electronics Retail Sales Performance](https://raw.githubusercontent.com/JoyceAbache/Global-Electronics-Retail-Sales-Performance-/main/Electronics%20Sales%20Dashboard.png)
 
 
 ![National Water Overview](https://raw.githubusercontent.com/JoyceAbache/maji-ndogo-part3-powerbi-infrastructure/main/National%20Level.png)
-## 📊 Featured Projects
+## Featured Projects
 
 | Project | What it covers |
 |---|---|
@@ -19,8 +19,8 @@ I analyze real-world data to answer business questions — and build the dashboa
 | [**Part 3 — Infrastructure**](https://github.com/JoyceAbache/maji-ndogo-part3-powerbi-infrastructure) | Provincial cost and improvement tracking with DAX-driven KPIs |
 | [**Part 4 — Public Dashboard**](https://github.com/JoyceAbache/maji-ndogo-part4-powerbi-public-dashboard) | Public accountability dashboard tracking fund transparency and project progress |
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 Power BI (Power Query, DAX, data modeling) · SQL · Excel (pivot tables, formula-driven reporting, dashboard design) · Python · Data storytelling
 
-## 📫 Let's connect
+## Let's connect
 [LinkedIn](https://www.linkedin.com/in/joyce-abache)
